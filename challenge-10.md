@@ -32,4 +32,4 @@ You can checkout the exemplate i've done at [CodePen](https://codepen.io/schirre
 
 You can use the [FlatIcon](https://www.flaticon.com/) or [Icon8](https://icons8.com.br/) websites.
 
-If you don't feel like choosing an icon, you can use the [icon](../assets/icon.svg) i used .
+If you don't feel like choosing an icon, you can use the [icon](https://github.com/schirrel/desafios-css/blob/master/assets/icon.svg) i used .
